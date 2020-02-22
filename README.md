@@ -9,7 +9,7 @@ Below are one of the steps you can test the project's functionality
 
 3.) Type in the session name you desire and press host game.
 
-4.) You be teleported to a new map
+4.) You will be teleported to a new map
 
 5.) Right click on the uproject and click launch game to launch another game instance.
 
